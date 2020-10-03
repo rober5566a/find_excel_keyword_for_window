@@ -1,5 +1,4 @@
 from os import walk
-import time
 import pandas as pd
 import glob
 
@@ -23,7 +22,7 @@ def result_out(filenames, key_word):
         if key_file != "":
             key_files.append(key_file)
             print(key_file)
-        
+
     if key_files == []:
         print("無任何關鍵字!")
     input("完成！任意鍵！\n")

@@ -7,9 +7,11 @@
 
 ## 如果已有上述兩個工具，請按照以下步驟：
 
-> 1.  開啟 **cmd**
+> 1.  開啟 **cmd** 或 **power shell**
 > 2.  cd <現在這個資料夾的位置>
 > 3.  pip3 install -r ./requirements.txt
+
+---
 
 ---
 
